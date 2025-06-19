@@ -1,0 +1,62 @@
+Beginner Level
+Create a 1D array of numbers from 0 to 9.
+
+Create a 3x3 NumPy array filled with all zeros.
+
+Create a 4x4 identity matrix.
+
+Create a NumPy array with random integers between 1 and 100 (size = 10).
+
+Reshape a 1D array of 9 elements into a 3x3 matrix.
+
+Get the data type of an array.
+
+Find the maximum, minimum, and mean of a NumPy array.
+
+Slice the first 3 elements from a NumPy array.
+
+Create an array of 10 linearly spaced points between 0 and 1.
+
+Reverse a NumPy array.
+
+🔸 Intermediate Level
+Replace all even numbers in an array with -1.
+
+Stack two arrays vertically and horizontally.
+
+Create a 5x5 array and set the border elements to 1 and the inner to 0.
+
+Create a random 4x4 matrix and compute its transpose.
+
+Find the indices of non-zero elements in an array.
+
+Normalize a random array of floats (scale values between 0 and 1).
+
+Extract the diagonal of a 2D array.
+
+Multiply two matrices (dot product).
+
+Flatten a 2D array into 1D.
+
+Create a boolean mask from an array where values > 50.
+
+🔺 Advanced Level
+Create a 10x10 matrix with values from 1 to 100 and extract the 2nd column.
+
+Replace the maximum value in an array with 0.
+
+Sort a NumPy array.
+
+Compute the row-wise sum of a 2D array.
+
+Find the unique elements in a NumPy array.
+
+Create a checkerboard pattern 8x8 matrix using 0 and 1.
+
+Create a 2D Gaussian array (bell curve values).
+
+Get common values between two NumPy arrays.
+
+Convert a NumPy array to a Python list.
+
+Broadcast a 1D array to a 2D array (e.g., add a row vector to each row).
