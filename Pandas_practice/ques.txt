@@ -1,0 +1,47 @@
+
+### 🔰 **Beginner Level Questions**
+
+1. Create a Pandas Series from a Python list.
+2. Create a Pandas DataFrame using a dictionary.
+3. How do you display the first 5 rows of a DataFrame?
+4. How can you select a single column from a DataFrame?
+5. How can you add a new column to an existing DataFrame?
+6. How do you read a CSV file using Pandas?
+7. How do you write a DataFrame to a CSV file?
+8. What does the `info()` function of a DataFrame show?
+9. How do you get statistical summary of a DataFrame?
+10. How can you rename columns in a DataFrame?
+
+---
+
+### 🧩 **Intermediate Level Questions**
+
+11. How do you filter rows based on a condition?
+12. How do you filter rows using multiple conditions?
+13. How do you check for missing values in a DataFrame?
+14. How do you fill missing values in a column with the mean?
+15. How do you drop rows with any missing values?
+16. How do you sort a DataFrame by a specific column?
+17. How do you group data using `groupby()` and get the mean?
+18. How do you merge two DataFrames on a common column?
+19. How do you concatenate two DataFrames vertically?
+20. How do you reset the index of a DataFrame?
+
+---
+
+### 🧠 **Advanced Level Questions**
+
+21. How do you create a pivot table in Pandas?
+22. How do you apply a custom function to a column using `apply()`?
+23. How do you get the row with the maximum value in a column?
+24. How do you convert a column to datetime format?
+25. How do you filter rows by date range in a datetime column?
+26. How do you create a new column based on conditions in other columns?
+27. How do you count unique values in a column?
+28. How do you get the correlation matrix of numerical columns?
+29. How do you perform a left join between two DataFrames?
+30. How do you create a multi-index DataFrame?
+
+---
+
+
