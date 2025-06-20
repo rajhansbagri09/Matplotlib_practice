@@ -1,0 +1,82 @@
+Shukriya Boss! 🔥
+Yeh raha aapka **Matplotlib Practice Worksheet** in **text format**, jisme **Questions** aur **Answers** clearly **alag-alag sections** mein diye gaye hain. Aap ise directly copy-paste karke Word, Google Docs, ya PDF converter mein use kar sakte ho.
+
+---
+
+## 📘 **Matplotlib Practice Worksheet**
+
+---
+
+### 🟦 **SECTION A: Questions**
+
+1. Plot a line graph of a company’s profit over 5 years.
+2. Label the x-axis as “Year” and y-axis as “Profit (in Lakhs)”.
+3. Change the line color to green and style it as dashed.
+4. Add square markers at each data point.
+5. Add a title to the graph: “Yearly Profit Trend”.
+6. Enable grid lines on the plot.
+7. Plot two lines on the same graph: one for sin(x) and another for cos(x).
+8. Use different colors and styles for each line.
+9. Add a legend to distinguish the two lines.
+10. Add axis labels and a title: “Sine vs Cosine Waves”.
+11. Create two subplots in one figure: Top plot: y = x², Bottom plot: y = sqrt(x)
+12. Add titles to each subplot.
+13. Ensure both plots share the same x-axis.
+14. Add some padding between the subplots so they don’t overlap.
+15. Plot a bar chart showing number of students in 5 different departments.
+16. Add value labels on top of each bar.
+17. Change the bar color to sky blue.
+18. Rotate x-axis labels by 45 degrees.
+19. Create a pie chart of sales percentages for 4 products.
+20. Show the percentage values inside each slice.
+21. Make one slice explode out slightly.
+22. Add a title: “Product Sales Share”.
+23. Plot a histogram showing the distribution of marks in a class.
+24. Use 8 bins in the histogram.
+25. Set color to light green and add black edges to each bar.
+26. Change the figure size of any plot to (10, 6).
+27. Set x-axis limits to 0–100 and y-axis limits to 0–50.
+28. Save any plot as a PNG file named `my_chart.png`.
+29. What’s the difference between plt.plot() and plt.scatter()?
+30. When would you use a histogram instead of a bar chart?
+31. What is the role of plt.tight\_layout()?
+
+---
+
+### 🟩 **SECTION B: Answers**
+
+1. Use `plt.plot()` with years on x-axis and profit values on y-axis.
+2. Use `plt.xlabel('Year')` and `plt.ylabel('Profit (in Lakhs)')`.
+3. Use `plt.plot(..., color='green', linestyle='--')`.
+4. Add `marker='s'` in the plot function to show square points.
+5. Use `plt.title('Yearly Profit Trend')`.
+6. Use `plt.grid(True)` to enable gridlines.
+7. Use `np.sin(x)` and `np.cos(x)`, then plot both using `plt.plot()`.
+8. Assign different colors and linestyles to each `plt.plot()` call.
+9. Use `plt.legend(['sin(x)', 'cos(x)'])`.
+10. Add `xlabel`, `ylabel`, and `title` using `plt` functions.
+11. Use `plt.subplot(2,1,1)` and `plt.subplot(2,1,2)` for top and bottom plots.
+12. Use `plt.title()` inside each subplot block.
+13. Align x-axis by setting same x range or using shared axis.
+14. Call `plt.tight_layout()` after plotting to fix overlapping.
+15. Use `plt.bar()` with department names and student counts.
+16. Use `plt.text()` to show count on top of each bar.
+17. Set `color='skyblue'` in `plt.bar()`.
+18. Use `plt.xticks(rotation=45)`.
+19. Use `plt.pie()` with labels and values.
+20. Use `autopct='%1.1f%%'` in `plt.pie()`.
+21. Use `explode` parameter to highlight a slice.
+22. Use `plt.title('Product Sales Share')`.
+23. Use `plt.hist()` with marks data.
+24. Add `bins=8` inside `plt.hist()`.
+25. Set `color='lightgreen', edgecolor='black'` in histogram.
+26. Use `plt.figure(figsize=(10, 6))`.
+27. Use `plt.xlim(0, 100)` and `plt.ylim(0, 50)`.
+28. Use `plt.savefig('my_chart.png')`.
+29. `plt.plot()` makes line plots, `plt.scatter()` makes unconnected dots.
+30. Histogram shows frequency distribution; bar chart compares categories.
+31. `plt.tight_layout()` prevents overlapping of subplots and labels.
+
+---
+
+Let me know Boss if you want this in **MS Word**, **Google Docs shareable link**, or if I should try PDF again later. All set to assist! 📊💪
